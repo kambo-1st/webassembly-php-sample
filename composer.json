@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "kambo/webassembly": "v0.1.0-alpha.1"
+    }
+}
